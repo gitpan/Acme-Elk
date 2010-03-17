@@ -1,5 +1,5 @@
 package Acme::Elk;
-our $VERSION = '1.000';
+our $VERSION = '1.001';
 use Moose ();
 use Moose::Exporter;
 
@@ -11,7 +11,7 @@ Acme::Elk - it isn't Moose
 
 =head1 VERSION
 
-version 1.000
+version 1.001
 
 =head1 SYNOPSIS
 
